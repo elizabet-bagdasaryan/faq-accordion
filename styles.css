@@ -90,23 +90,7 @@ span {
   h1 {
     text-align: start;
   }
-  #team-members:hover {
-    color: #f47b56;
-    cursor: pointer;
-  }
-  #file-size:hover {
-    color: #f47b56;
-    cursor: pointer;
-  }
-  #password:hover {
-    color: #f47b56;
-    cursor: pointer;
-  }
-  #subscription:hover {
-    color: #f47b56;
-    cursor: pointer;
-  }
-  #add-support:hover {
+  .text-divs p:hover {
     color: #f47b56;
     cursor: pointer;
   }
